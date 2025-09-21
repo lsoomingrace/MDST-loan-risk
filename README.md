@@ -93,4 +93,6 @@ To exit the virtual environment and use your global Python environment again, si
 deactivate
 ```
 This command deactivates the virtual environment, returning you to your system’s global Python environment.
-#1
+
+#git
+#second
