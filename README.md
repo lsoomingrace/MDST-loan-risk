@@ -21,7 +21,7 @@ There are multiple ways to use virtual environments in Python, including through
 Before creating the environment, make sure you have **Python 3.13.5** installed.  
 You can check with:
 ```
-python --version
+python --versi
 ```
 
 If you don’t already have Python 3.13.5:
